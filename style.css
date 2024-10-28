@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    margin-top: 5%;
+    background-color: brown;
+
+}
+#color-box{
+    height: 500px;;
+    width: 5000px; ;
+    background-color: aqua;
+}
+ 
+
